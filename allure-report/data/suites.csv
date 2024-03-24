@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Mar 24 16:23:22 IST 2024","Sun Mar 24 16:23:34 IST 2024","12278","","LoggedIn User View","","Validate user is able to view after Login","","Validate user is able to view after Login",""
+"passed","Sun Mar 24 16:23:34 IST 2024","Sun Mar 24 16:23:46 IST 2024","11948","","New User Registration View","","Validate new user is able to view after clicking on new Registration","","Validate new user is able to view after clicking on new Registration",""
+"passed","Sun Mar 24 16:23:06 IST 2024","Sun Mar 24 16:23:21 IST 2024","14990","","General View","","Validate general user is able to view products wihtout logging in","","Validate general user is able to view products wihtout logging in",""
